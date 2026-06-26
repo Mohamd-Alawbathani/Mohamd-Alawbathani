@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamd Alawbathani
 
-### 💻 Aspiring Cybersecurity Specialist
+### 💻  Cybersecurity 
 
 ## 🚀 About Me
 ---------------------------------------------
