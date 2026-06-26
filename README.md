@@ -1,8 +1,13 @@
 # Hi 👋, I'm Mohamd Alawbathani
 
+🇸🇦 Based in Saudi Arabia
+🎓 High School Student (Second Year)
+💻 Aspiring Cybersecurity Specialist
 
 ## 💻 About Me
----------------------------------------------
+
+---
+
 * 🔐 Learning Cybersecurity
 * 🐧 Learning Kali Linux
 * ☕ Learning Java
@@ -13,7 +18,9 @@
 * 🎮 Roblox Studio Developer
 * 📚 Passionate about learning new technologies
 * 🎯 Goal: Become a Professional Cybersecurity Specialist
- --------------------------------------------- 
+
+---
+
 ## 🛠️ Tech Stack
 
 * 🐍 Python
@@ -23,7 +30,9 @@
 * 🐧 Linux
 * 🖥️ Git & GitHub
 * 💻 VS Code
----------------------------------------------
+
+---
+
 ## 🎯 Current Focus
 
 * 🛡️ Ethical Hacking
