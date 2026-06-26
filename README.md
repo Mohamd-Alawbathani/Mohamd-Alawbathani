@@ -1,8 +1,7 @@
 # Hi 👋, I'm Mohamd Alawbathani
 
-### 💻  Cybersecurity 
 
-## 🚀 About Me
+## 💻 About Me
 ---------------------------------------------
 * 🔐 Learning Cybersecurity
 * 🐧 Learning Kali Linux
