@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamd Alawbathani
 
-<!--
-**Mohamd-Alawbathani/Mohamd-Alawbathani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Cybersecurity Specialist
 
-Here are some ideas to get you started:
+## 🚀 About Me
+---------------------------------------------
+* 🔐 Learning Cybersecurity
+* 🐧 Learning Kali Linux
+* ☕ Learning Java
+* 🐍 Learning Python
+* ⚙️ Learning C++
+* 🗄️ Learning SQL
+* 🌐 Learning Networking
+* 🎮 Roblox Studio Developer
+* 📚 Passionate about learning new technologies
+* 🎯 Goal: Become a Professional Cybersecurity Specialist
+ --------------------------------------------- 
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* ☕ Java
+* ⚙️ C++
+* 🗄️ SQL
+* 🐧 Linux
+* 🖥️ Git & GitHub
+* 💻 VS Code
+---------------------------------------------
+## 🎯 Current Focus
+
+* 🛡️ Ethical Hacking
+* 🔐 Penetration Testing
+* 🌐 Networking
+* 💻 Software Development
+* 🎮 Roblox Development
+
+> **"Keep learning. Keep building. Keep improving."**
