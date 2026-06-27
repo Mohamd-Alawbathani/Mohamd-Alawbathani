@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 * 🐍 Python
-* ☕ Java
+* ☕ Java script
 * ⚙️ C++
 * 🗄️ SQL
 * 🐧 Linux
