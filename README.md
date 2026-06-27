@@ -10,7 +10,7 @@
 
 * 🔐 Learning Cybersecurity
 * 🐧 Learning Kali Linux
-* ☕ Learning Java
+* ☕ Learning Java script
 * 🐍 Learning Python
 * ⚙️ Learning C++
 * 🗄️ Learning SQL
