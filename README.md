@@ -9,13 +9,12 @@
 ---
 
 * 🔐 Learning Cybersecurity
-* 🐧 Learning Kali Linux
+* 🐧 Learning  Linux
 * ☕ Learning Java 
 * 🐍 Learning Python
 * ⚙️ Learning C++
 * 🗄️ Learning SQL
 * 🌐 Learning Networking
-* 🎮 Roblox Studio Developer
 * 📚 Passionate about learning new technologies
 * 🎯 Goal: Become a Professional Cybersecurity Specialist
 
@@ -39,6 +38,5 @@
 * 🔐 Penetration Testing
 * 🌐 Networking
 * 💻 Software Development
-* 🎮 Roblox Development
 
 > **"Keep learning. Keep building. Keep improving."**
