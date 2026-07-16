@@ -12,7 +12,6 @@
 * 🐧 Learning  Linux
 * ☕ Learning Java 
 * 🐍 Learning Python
-* ⚙️ Learning C++
 * 🗄️ Learning SQL
 * 🌐 Learning Networking
 * 📚 Passionate about learning new technologies
@@ -24,7 +23,6 @@
 
 * 🐍 Python
 * ☕ Java 
-* ⚙️ C++
 * 🗄️ SQL
 * 🐧 Linux
 * 🖥️ Git & GitHub
