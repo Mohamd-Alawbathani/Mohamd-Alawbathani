@@ -22,11 +22,11 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ## 🛠️ Technologies I'm Learning
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="34"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-163A5F?style=for-the-badge&logo=kalilinux&logoColor=white" height="34"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="34"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-163A5F?style=for-the-badge&logo=kalilinux&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="34"/>
+</p>
 
 </p>
 
