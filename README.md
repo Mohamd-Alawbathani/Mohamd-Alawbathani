@@ -24,13 +24,13 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ### 🔐 Cybersecurity
 
-<img src="assets/kali-linux.png" width="75" alt="Kali Linux">
+<img src="./kali-linux.png" width="70" alt="Kali Linux">
 
 **Kali Linux**
 
 ### 🐧 Linux
 
-<img src="assets/linux.png" width="75" alt="Linux">
+<img src="./linux.png" width="80" alt="Linux">
 
 **Linux**
 
@@ -39,17 +39,6 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python">
 
 **Python**
-
-### 🌐 Networking
-
-🌐 **Networking Fundamentals**
-
-### 🛠️ Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
-
 ---
 
 ## 🎯 Current Focus
