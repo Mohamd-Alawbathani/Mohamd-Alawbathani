@@ -22,7 +22,7 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ---
 
-## 🧠 Skills
+ ## 🧠 Skills I'm Learning
 
 ### 🔐 Cybersecurity
 
