@@ -36,7 +36,7 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ### 💻 Programming
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python">
 
 **Python**
 ---
