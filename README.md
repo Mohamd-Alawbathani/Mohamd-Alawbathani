@@ -8,39 +8,76 @@
 
 ## 💻 About Me
 
-I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux, and Programming**.
+I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux, Networking, and Programming**.
 
-* 🔐 Currently learning **Cybersecurity**
-* 🐧 Building strong **Linux** fundamentals
-* 🐉 Learning and practicing with **Kali Linux**
+* 🔐 Learning **Cybersecurity**
+* 🐧 Learning **Linux**
+* 🐉 Learning **Kali Linux**
 * 🐍 Learning **Python**
-* 🌐 Building my knowledge in **Networking**
+* 🌐 Learning **Networking Fundamentals**
 * 🧪 Practicing through hands-on labs and projects
 * 🚀 Improving my skills step by step
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🧠 Skills
 
-<p align="center">
+### 🔐 Cybersecurity
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="34"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux/163A5F" width="55" alt="Kali Linux"/>
+</p>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-163A5F?style=for-the-badge&logo=kalilinux&logoColor=white" height="34"/>
+**Kali Linux**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="34"/>
+---
 
+### 🐧 Linux
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux/000000" width="55" alt="Linux"/>
+</p>
+
+**Linux**
+
+---
+
+### 💻 Programming
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python"/>
+</p>
+
+**Python**
+
+---
+
+### 🌐 Networking
+
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-0A66C2?style=flat-square\&logo=cisco\&logoColor=white)
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* 🐧 Strengthening my **Linux fundamentals**
-* 🐉 Learning the **Kali Linux environment**
-* 🐍 Improving my **Python programming skills**
-* 🌐 Learning **Networking fundamentals**
+* 🐧 Strengthening my **Linux Fundamentals**
+* 🐉 Learning and practicing with **Kali Linux**
+* 🐍 Improving my **Python Programming**
+* 🌐 Building strong **Networking Fundamentals**
 * 🔐 Building a strong foundation in **Cybersecurity**
+* 🧪 Practicing through hands-on labs
 
 ---
 
@@ -57,15 +94,14 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 ### 🐉 Kali Linux Labs
 
 * 🖥️ Kali Linux Environment Practice
-* 📂 Command-Line Practice
+* ⌨️ Terminal & Command-Line Practice
 * 🔐 Cybersecurity Fundamentals Practice
 
 ### 🐍 Python Projects
 
-* 🔑 Password Generator
-* 🔐 Password Strength Checker
-* 📂 File Organizer
-* 📊 Log Analyzer
+* 🧠 Python Fundamentals
+* 🧪 Python Practice Projects
+* ⚙️ Automation Projects — Coming Soon
 
 > 🚧 **More projects will be added as I continue learning and improving.**
 
@@ -74,15 +110,15 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 ## 🎯 My Goals
 
 * 🔐 Become a **Professional Cybersecurity Specialist**
-* 🐧 Build advanced **Linux** skills
+* 🐧 Build strong **Linux Skills**
 * 🐉 Become highly comfortable using **Kali Linux**
 * 🐍 Become proficient in **Python**
-* 🌐 Build a strong understanding of **Networking**
+* 🌐 Build strong knowledge of **Networking**
 * 🛡️ Learn **Ethical Hacking**
 * 🔎 Learn **Penetration Testing**
-* 🧪 Build real-world cybersecurity labs
-* 📂 Build a strong GitHub portfolio
-* 📈 Keep learning, building, and improving
+* 🧪 Build real Cybersecurity Labs & Projects
+* 📂 Build a strong GitHub Portfolio
+* 📈 Keep learning and improving every day
 
 ---
 
