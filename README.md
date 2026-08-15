@@ -14,6 +14,8 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 * 🐧 Learning **Linux**
 * 🐉 Learning **Kali Linux**
 * 🐍 Learning **Python**
+* ☕ Learning **Java**
+* 🗄️ Learning **SQL**
 * 🌐 Learning **Networking Fundamentals**
 * 🧪 Practicing through hands-on labs and projects
 * 🚀 Improving my skills step by step
@@ -24,57 +26,40 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ### 🔐 Cybersecurity
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/kalilinux/163A5F" width="55" alt="Kali Linux"/>
-</p>
-
-**Kali Linux**
-
----
-
-### 🐧 Linux
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/linux/000000" width="55" alt="Linux"/>
-</p>
-
-**Linux**
-
----
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python"/>
-</p>
-
-**Python**
-
----
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-163A5F?style=flat-square\&logo=kalilinux\&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Fundamentals-111111?style=flat-square\&logo=hackthebox\&logoColor=white)
 
 ### 🌐 Networking
 
-![Networking](https://img.shields.io/badge/Networking-Fundamentals-0A66C2?style=flat-square\&logo=cisco\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
+![IP Addressing](https://img.shields.io/badge/IP%20Addressing-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
+![DNS](https://img.shields.io/badge/DNS-111111?style=flat-square\&logo=cloudflare\&logoColor=F38020)
+![DHCP](https://img.shields.io/badge/DHCP-111111?style=flat-square)
+![Subnetting](https://img.shields.io/badge/Subnetting-111111?style=flat-square)
+![Routing](https://img.shields.io/badge/Routing-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
+![Switching](https://img.shields.io/badge/Switching-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
+![Ports](https://img.shields.io/badge/Ports%20%26%20Protocols-111111?style=flat-square)
 
----
+### 💻 Programming, Linux & Tools
 
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
-</p>
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=mysql\&logoColor=4479A1)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square\&logo=linux\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-163A5F?style=flat-square\&logo=kalilinux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=007ACC)
 
 ---
 
 ## 🎯 Current Focus
 
 * 🐧 Strengthening my **Linux Fundamentals**
-* 🐉 Learning and practicing with **Kali Linux**
+* 🐉 Practicing with **Kali Linux**
 * 🐍 Improving my **Python Programming**
+* ☕ Learning **Java**
+* 🗄️ Learning **SQL & Databases**
 * 🌐 Building strong **Networking Fundamentals**
 * 🔐 Building a strong foundation in **Cybersecurity**
 * 🧪 Practicing through hands-on labs
@@ -100,10 +85,22 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 ### 🐍 Python Projects
 
 * 🧠 Python Fundamentals
-* 🧪 Python Practice Projects
+* 🔑 Password Generator
+* 🔐 Password Strength Checker
+* 📂 File Organizer
 * ⚙️ Automation Projects — Coming Soon
 
-> 🚧 **More projects will be added as I continue learning and improving.**
+### 🌐 Networking Labs
+
+* 🌍 IP Addressing
+* 🔗 TCP/IP
+* 📡 DNS & DHCP
+* 🧩 Subnetting
+* 🛣️ Routing
+* 🔀 Switching
+* 🚪 Ports & Protocols
+
+> 🚧 **More projects will be added as I continue learning and building.**
 
 ---
 
@@ -114,10 +111,11 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 * 🐉 Become highly comfortable using **Kali Linux**
 * 🐍 Become proficient in **Python**
 * 🌐 Build strong knowledge of **Networking**
+* 🗄️ Understand **SQL & Databases**
 * 🛡️ Learn **Ethical Hacking**
 * 🔎 Learn **Penetration Testing**
 * 🧪 Build real Cybersecurity Labs & Projects
-* 📂 Build a strong GitHub Portfolio
+* 📂 Build a strong professional GitHub portfolio
 * 📈 Keep learning and improving every day
 
 ---
@@ -127,7 +125,9 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 * 🐙 **Username:** Mohamd-Alawbathani
 * 🔐 **Main Field:** Cybersecurity
 * 🐧 **Current Focus:** Linux & Kali Linux
-* 🐍 **Programming:** Python
+* 🐍 **Programming:** Python & Java
+* 🌐 **Learning:** Networking
+* 🗄️ **Database:** SQL
 * 🧪 **Building:** Projects & Hands-on Labs
 
 ---
