@@ -20,24 +20,17 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ---
 
-## 🧠 Skills
+## 🛠️ Technologies I'm Learning
 
-### 🔐 Cybersecurity
+<p align="center">
 
-<img src="https://www.google.com/imgres?q=%D9%83%D8%A7%D9%84%D9%8A%20%D9%84%D9%8A%D9%86%D9%83%D8%B3&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FlnsM-YoQ6DX2mvPh8w2xp0naarmFf82t8pFesdnjLC5ROj9sLeYf8HjWK5DBgAnYOHgFTkjBg3y7Ce8EB14y%3Dw600-h300-pc0xffffff-pd&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.Inew.ikali%26hl%3Dar&docid=_2wrbVYsvUQ-aM&tbnid=Xu2gmanPy3CdyM&vet=12ahUKEwiSs_ykjqOWAxUvUqQEHcuRGSgQnPAOegQIPxAA..i&w=600&h=300&hcb=2&ved=2ahUKEwiSs_ykjqOWAxUvUqQEHcuRGSgQnPAOegQIPxAA" width="70" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="34"/>
 
-**Kali Linux**
+<img src="https://img.shields.io/badge/Kali%20Linux-163A5F?style=for-the-badge&logo=kalilinux&logoColor=white" height="34"/>
 
-### 🐧 Linux
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="34"/>
 
-<img src="./linux.png" width="80" alt="Linux">
-
-**Linux**
-
-### 💻 Programming
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python">
-Python
+</p>
 
 ---
 
