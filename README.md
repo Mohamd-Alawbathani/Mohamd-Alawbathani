@@ -31,7 +31,7 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ### 🌐 Networking
 
-![TCP/IP]()
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
 ![IP Addressing](https://img.shields.io/badge/IP%20Addressing-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
 ![DNS](https://img.shields.io/badge/DNS-111111?style=flat-square\&logo=cloudflare\&logoColor=F38020)
 ![DHCP](https://img.shields.io/badge/DHCP-111111?style=flat-square)
