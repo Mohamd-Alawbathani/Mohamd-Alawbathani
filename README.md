@@ -120,9 +120,10 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub & LinkedIn
 
-* 🐙 **Username:** Mohamd-Alawbathani
+* 🐙 **GitHub Username:** Mohamd-Alawbathani
+* 💼 **LinkedIn:** [mohamd-alawbathani-82747642a](https://www.linkedin.com/in/mohamd-alawbathani-82747642a/)
 * 🔐 **Main Field:** Cybersecurity
 * 🐧 **Current Focus:** Linux & Kali Linux
 * 🐍 **Programming:** Python & Java
@@ -135,9 +136,10 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 ## 📫 Contact Me
 
 * 📧 **Email:** [Mohamdmod230@gmail.com](mailto:Mohamdmod230@gmail.com)
-* 🐙 **GitHub:** https://github.com/Mohamd-Alawbathani
+* 🐙 **GitHub:** [github.com/Mohamd-Alawbathani](https://github.com/Mohamd-Alawbathani)
+* 💼 **LinkedIn:** [linkedin.com/in/mohamd-alawbathani-82747642a](https://www.linkedin.com/in/mohamd-alawbathani-82747642a/)
 
----
+ ---
 
 <p align="center">
   <b>🚀 Keep Learning • Keep Building • Keep Improving</b>
