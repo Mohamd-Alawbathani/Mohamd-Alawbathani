@@ -35,9 +35,6 @@ I'm a high school student from Saudi Arabia interested in **Cybersecurity, Linux
 ![IP Addressing](https://img.shields.io/badge/IP%20Addressing-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
 ![DNS](https://img.shields.io/badge/DNS-111111?style=flat-square\&logo=cloudflare\&logoColor=F38020)
 ![DHCP](https://img.shields.io/badge/DHCP-111111?style=flat-square)
-![Subnetting](https://img.shields.io/badge/Subnetting-111111?style=flat-square)
-![Routing](https://img.shields.io/badge/Routing-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
-![Switching](https://img.shields.io/badge/Switching-111111?style=flat-square\&logo=cisco\&logoColor=1BA0D7)
 ![Ports](https://img.shields.io/badge/Ports%20%26%20Protocols-111111?style=flat-square)
 
 ### 💻 Programming, Linux & Tools
